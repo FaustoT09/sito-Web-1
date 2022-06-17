@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    
+}
+nav{
+    background: #F0FFFF;
+    overflow: hidden;
+}
+.menu {
+    text-align: left;
+}
+.menu li{
+    display: inline-block;
+}
+.menu a{
+    padding: 25px;
+    color: #274545;
+    text-decoration: none;
+    display: block;
+}
+.menu a:hover {
+    background: cornflowerblue;
+}
+.datos {
+    background: rgb(232, 158, 158);
+    overflow: hidden;
+    color: rgb(78, 4, 4);
+    text-align: center;
+    height: 10%;
+}
+.cabecera {
+    background: dimgrey;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    height: 50%;
+}
+.ejemplo {
+    background: rgb(139, 38, 38);
+    overflow: hidden;
+    color: white;
+    text-align: left;
+    height: 70%;
+}
+.ejemplo1 {
+    background: rgb(247, 247, 247);
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    height: 70%;
+}
+.ejemplo2 {
+    background: rgb(240, 198, 198);
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    height: 200%;
+}
+.iconos {
+padding: 45%;
+color: white;
+text-decoration: none;
+text-align: cente;
+height: 50%;
+size-adjust: 300px;
+}
